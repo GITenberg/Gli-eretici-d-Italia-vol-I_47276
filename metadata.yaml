@@ -1,4 +1,8 @@
 _repo: Gli-eretici-d-Italia-vol-I_47276
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47276-h/images/cover.jpg
 creator:
   author:
     agent_name: Cantù, Cesare
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2238
     wikipedia: http://en.wikipedia.org/wiki/Cesare_Cantù
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47276#Gli-eretici-d-Italia-vol-I
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2014-11-03'
 gutenberg_type: Text
